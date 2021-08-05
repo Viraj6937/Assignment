@@ -1,0 +1,40 @@
+-> verify when clicked on business loggo redirects to home page
+-> verify when fired search query into search field the list displays the result for searched query 
+-> verify when clicked on notification tab, display the list of user performed events
+-> verify when clicked on user profile image, displays, two action options,(i.e. profile, myaccount)
+-> verify when clicked on profile action option, redirects to user profile page
+-> verify when clicked on my account action option, redirects to my account page
+-> verify when clicked on upgrade to premium button, should redirect to bussiness pro subscription plan page
+
+-> verify on landing page home tab is default selected
+-> verify when clicked on profile banner opens image in big screen
+-> verify when clicked on profile image opens image in big screen
+-> verify when clicked on link "see all 358 employees on linkedin" should redirect to employee list
+-> verify when clicked on follow button request pending request button is been displayed
+-> verify the request send is been received to user2 notification
+-> verify when the request is been accepted by user2, the user1 receives notification as user2 is your new connection
+-> verify when clicked on Visit Website button redirects to user account business site
+-> verify when clicked on three dotted button opens options
+-> verify bydefault overview tab is selected
+-> verify under overview the website url is same as when clicked Visit Website url
+-> verify when clicked on view all details the list is expanded
+-> verify when clicked on about button should open redirect about page
+-> verify when clicked on product button should open product list page
+-> verify when clicked on post button should open recently posted list page
+-> verify when clicked on job button should open job list page
+-> verify when clicked on people button should open people working list page
+-> verify when clicked on video button should open video list page 
+-> verify when clicked on my network tab should redirect to my network list page
+-> verify when clicked on job offers tab should redirect to job offers page
+-> verify when clicked on my profile tab should redirect to my profile page
+
+
+-> verify when clicked on about footer link should redirect to about page
+-> verify when clicked on Accessibility footer link should redirect to Accessibilty page
+-> verify when clicked on Help Center footer link should redirect to Help Center page
+-> verify when clicked on privacy&terms footer link should redirect to privacy&terms page
+-> verify when clicked on Ad Choice footer link should redirect to Ad Choice page
+-> verify when clicked on Business Service footer link should redirect to Business Service page
+-> verify when clicked on getLinkedIn app should open playstore linked download page
+
+ 
